@@ -9,7 +9,7 @@ class Exam:
         return i
 # For testing your code uncomment below lines.
 
-e = Exam()
-print(e.PassFail(15, 65, 55, 94))
+# e = Exam()
+# print(e.PassFail(15, 65, 55, 94))
 
 # Comment or delete the above test code before submitting.
